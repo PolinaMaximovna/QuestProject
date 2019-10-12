@@ -6,5 +6,10 @@ public class Actor
 
     public String name;
 
+    public int smart;
+
+    public int luck;
+
+    public String universityResult;
 
 }
